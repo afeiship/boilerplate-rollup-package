@@ -7,7 +7,7 @@
 <h3 align="center">boilerplate-rollup-package</h3>
 
 <p align="center">
-  Sdk for tampermonkey based on jQuery/nx.
+  boilerplate-rollup-package-description
 </p>
 
 [![version][version-image]][version-url]
