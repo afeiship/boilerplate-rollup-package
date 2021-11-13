@@ -2,7 +2,7 @@
   "name": "@boilerplate-scope/boilerplate-rollup-package",
   "version": "1.0.0",
   "description": "boilerplate-rollup-package-description",
-  "homepage": "https://github.com/afeiship",
+  "homepage": "https://js.work",
   "author": {
     "name": "afeiship",
     "email": "1290657123@qq.com"
@@ -27,5 +27,10 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "boilerplate": "@boilerplate-scope/boilerplate-rollup-package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afeiship/@boilerplate-scope/boilerplate-rollup-package"
   }
 }
